@@ -1,0 +1,17 @@
+{
+	"geode": "5.8.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "azziozz.skinpresets",
+	"name": "Skin Presets",
+	"version": "1.0.0",
+	"developer": "Azziozz",
+	"description": "Create and switch between Geometry Dash skin presets. A QOL type of mod for people who changes skin a lot of time.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
